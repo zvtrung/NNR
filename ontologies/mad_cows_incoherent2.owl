@@ -1,0 +1,921 @@
+<?xml version="1.0"?>
+<Ontology xmlns="http://www.w3.org/2002/07/owl#"
+     xml:base="file:/D:/T2MRProjects/9stuffes/Dropbox/IdeaProjects/NonstandardReasoner/exampleOntologies/mad_cows_incoherent.owl"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     ontologyIRI="file:/D:/T2MRProjects/9stuffes/Dropbox/IdeaProjects/NonstandardReasoner/exampleOntologies/mad_cows_incoherent.owl">
+    <Prefix name="" IRI="file:/D:/T2MRProjects/9stuffes/Dropbox/IdeaProjects/NonstandardReasoner/exampleOntologies/mad_cows_incoherent.owl#"/>
+    <Prefix name="ns0" IRI="http://cohse.semanticweb.org/ontologies/people#"/>
+    <Prefix name="owl" IRI="http://www.w3.org/2002/07/owl#"/>
+    <Prefix name="rdf" IRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#"/>
+    <Prefix name="xml" IRI="http://www.w3.org/XML/1998/namespace"/>
+    <Prefix name="xsd" IRI="http://www.w3.org/2001/XMLSchema#"/>
+    <Prefix name="rdfs" IRI="http://www.w3.org/2000/01/rdf-schema#"/>
+    <Declaration>
+        <NamedIndividual abbreviatedIRI="ns0:adult"/>
+    </Declaration>
+    <Declaration>
+        <Class abbreviatedIRI="ns0:brain"/>
+    </Declaration>
+    <Declaration>
+        <Class abbreviatedIRI="ns0:animal"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual abbreviatedIRI="ns0:blue"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="http://cohse.semanticweb.org/ontologies/people#has+child"/>
+    </Declaration>
+    <Declaration>
+        <Class abbreviatedIRI="ns0:publication"/>
+    </Declaration>
+    <Declaration>
+        <Class abbreviatedIRI="ns0:colour"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="http://cohse.semanticweb.org/ontologies/people#has+pet"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://cohse.semanticweb.org/ontologies/people#dog+liker"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty abbreviatedIRI="ns0:likes"/>
+    </Declaration>
+    <Declaration>
+        <Class abbreviatedIRI="ns0:cow"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://cohse.semanticweb.org/ontologies/people#red+top"/>
+    </Declaration>
+    <Declaration>
+        <Class abbreviatedIRI="ns0:tree"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="http://cohse.semanticweb.org/ontologies/people#works+for"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://cohse.semanticweb.org/ontologies/people#old+lady"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="http://cohse.semanticweb.org/ontologies/people#has+mother"/>
+    </Declaration>
+    <Declaration>
+        <Class abbreviatedIRI="ns0:dog"/>
+    </Declaration>
+    <Declaration>
+        <Class abbreviatedIRI="ns0:truck"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://cohse.semanticweb.org/ontologies/people#haulage+truck+driver"/>
+    </Declaration>
+    <Declaration>
+        <Class abbreviatedIRI="ns0:plant"/>
+    </Declaration>
+    <Declaration>
+        <Class abbreviatedIRI="ns0:van"/>
+    </Declaration>
+    <Declaration>
+        <Class abbreviatedIRI="ns0:vegetarian"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://cohse.semanticweb.org/ontologies/people#haulage+worker"/>
+    </Declaration>
+    <Declaration>
+        <Class abbreviatedIRI="ns0:cat"/>
+    </Declaration>
+    <Declaration>
+        <Class abbreviatedIRI="ns0:mad_cow"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://cohse.semanticweb.org/ontologies/people#bus+company"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual abbreviatedIRI="ns0:female"/>
+    </Declaration>
+    <Declaration>
+        <Class abbreviatedIRI="ns0:giraffe"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://cohse.semanticweb.org/ontologies/people#animal+lover"/>
+    </Declaration>
+    <Declaration>
+        <Class abbreviatedIRI="ns0:leaf"/>
+    </Declaration>
+    <Declaration>
+        <Class abbreviatedIRI="ns0:lorry"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://cohse.semanticweb.org/ontologies/people#cat+liker"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://cohse.semanticweb.org/ontologies/people#bus+driver"/>
+    </Declaration>
+    <Declaration>
+        <Class abbreviatedIRI="ns0:man"/>
+    </Declaration>
+    <Declaration>
+        <Class abbreviatedIRI="ns0:tabloid"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty abbreviatedIRI="ns0:age"/>
+    </Declaration>
+    <Declaration>
+        <Class abbreviatedIRI="ns0:driver"/>
+    </Declaration>
+    <Declaration>
+        <Class abbreviatedIRI="ns0:sheep"/>
+    </Declaration>
+    <Declaration>
+        <Class abbreviatedIRI="ns0:woman"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://cohse.semanticweb.org/ontologies/people#van+driver"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty abbreviatedIRI="ns0:reads"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual abbreviatedIRI="ns0:The42"/>
+    </Declaration>
+    <Declaration>
+        <Class abbreviatedIRI="ns0:grass"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="http://cohse.semanticweb.org/ontologies/people#has+father"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://cohse.semanticweb.org/ontologies/people#quality+broadsheet"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual abbreviatedIRI="ns0:white"/>
+    </Declaration>
+    <Declaration>
+        <Class abbreviatedIRI="ns0:company"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="http://cohse.semanticweb.org/ontologies/people#part+of"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty abbreviatedIRI="ns0:sex"/>
+    </Declaration>
+    <Declaration>
+        <Class abbreviatedIRI="ns0:kid"/>
+    </Declaration>
+    <Declaration>
+        <Class abbreviatedIRI="ns0:bus"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://cohse.semanticweb.org/ontologies/people#cat+owner"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty abbreviatedIRI="ns0:service_number"/>
+    </Declaration>
+    <Declaration>
+        <Class abbreviatedIRI="ns0:magazine"/>
+    </Declaration>
+    <Declaration>
+        <Class abbreviatedIRI="ns0:grownup"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://cohse.semanticweb.org/ontologies/people#dog+owner"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual abbreviatedIRI="ns0:elderly"/>
+    </Declaration>
+    <Declaration>
+        <Class abbreviatedIRI="ns0:car"/>
+    </Declaration>
+    <Declaration>
+        <Class abbreviatedIRI="ns0:person"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual abbreviatedIRI="ns0:male"/>
+    </Declaration>
+    <Declaration>
+        <Class abbreviatedIRI="ns0:bicycle"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual abbreviatedIRI="ns0:TheSun"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="http://cohse.semanticweb.org/ontologies/people#has+parent"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://cohse.semanticweb.org/ontologies/people#pet+owner"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="http://cohse.semanticweb.org/ontologies/people#eaten+by"/>
+    </Declaration>
+    <Declaration>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </Declaration>
+    <Declaration>
+        <Class abbreviatedIRI="ns0:vehicle"/>
+    </Declaration>
+    <Declaration>
+        <Class abbreviatedIRI="ns0:boy"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://cohse.semanticweb.org/ontologies/people#haulage+company"/>
+    </Declaration>
+    <Declaration>
+        <Class abbreviatedIRI="ns0:girl"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://cohse.semanticweb.org/ontologies/people#white+van+man"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty abbreviatedIRI="ns0:eats"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual abbreviatedIRI="ns0:TheMirror"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual abbreviatedIRI="ns0:young"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="http://cohse.semanticweb.org/ontologies/people#has+part"/>
+    </Declaration>
+    <Declaration>
+        <Class abbreviatedIRI="ns0:broadsheet"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual abbreviatedIRI="ns0:TheTimes"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty abbreviatedIRI="ns0:drives"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="http://cohse.semanticweb.org/ontologies/people#has+colour"/>
+    </Declaration>
+    <Declaration>
+        <Class abbreviatedIRI="ns0:newspaper"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#the_Madcow1"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual abbreviatedIRI="ns0:TheGuardian"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual abbreviatedIRI="ns0:red"/>
+    </Declaration>
+    <Declaration>
+        <Class abbreviatedIRI="ns0:bone"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://cohse.semanticweb.org/ontologies/people#lorry+driver"/>
+    </Declaration>
+    <EquivalentClasses>
+        <Class abbreviatedIRI="ns0:boy"/>
+        <ObjectIntersectionOf>
+            <Class abbreviatedIRI="ns0:person"/>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty abbreviatedIRI="ns0:age"/>
+                <ObjectOneOf>
+                    <NamedIndividual abbreviatedIRI="ns0:young"/>
+                </ObjectOneOf>
+            </ObjectSomeValuesFrom>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty abbreviatedIRI="ns0:sex"/>
+                <ObjectOneOf>
+                    <NamedIndividual abbreviatedIRI="ns0:male"/>
+                </ObjectOneOf>
+            </ObjectSomeValuesFrom>
+        </ObjectIntersectionOf>
+    </EquivalentClasses>
+    <EquivalentClasses>
+        <Class abbreviatedIRI="ns0:driver"/>
+        <ObjectIntersectionOf>
+            <Class abbreviatedIRI="ns0:person"/>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty abbreviatedIRI="ns0:drives"/>
+                <Class abbreviatedIRI="ns0:vehicle"/>
+            </ObjectSomeValuesFrom>
+        </ObjectIntersectionOf>
+    </EquivalentClasses>
+    <EquivalentClasses>
+        <Class abbreviatedIRI="ns0:girl"/>
+        <ObjectIntersectionOf>
+            <Class abbreviatedIRI="ns0:person"/>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty abbreviatedIRI="ns0:age"/>
+                <ObjectOneOf>
+                    <NamedIndividual abbreviatedIRI="ns0:young"/>
+                </ObjectOneOf>
+            </ObjectSomeValuesFrom>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty abbreviatedIRI="ns0:sex"/>
+                <ObjectOneOf>
+                    <NamedIndividual abbreviatedIRI="ns0:female"/>
+                </ObjectOneOf>
+            </ObjectSomeValuesFrom>
+        </ObjectIntersectionOf>
+    </EquivalentClasses>
+    <EquivalentClasses>
+        <Class abbreviatedIRI="ns0:grownup"/>
+        <ObjectIntersectionOf>
+            <Class abbreviatedIRI="ns0:person"/>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty abbreviatedIRI="ns0:age"/>
+                <ObjectOneOf>
+                    <NamedIndividual abbreviatedIRI="ns0:adult"/>
+                    <NamedIndividual abbreviatedIRI="ns0:elderly"/>
+                </ObjectOneOf>
+            </ObjectSomeValuesFrom>
+        </ObjectIntersectionOf>
+    </EquivalentClasses>
+    <EquivalentClasses>
+        <Class abbreviatedIRI="ns0:kid"/>
+        <ObjectIntersectionOf>
+            <Class abbreviatedIRI="ns0:person"/>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty abbreviatedIRI="ns0:age"/>
+                <ObjectOneOf>
+                    <NamedIndividual abbreviatedIRI="ns0:young"/>
+                </ObjectOneOf>
+            </ObjectSomeValuesFrom>
+        </ObjectIntersectionOf>
+    </EquivalentClasses>
+    <EquivalentClasses>
+        <Class abbreviatedIRI="ns0:man"/>
+        <ObjectIntersectionOf>
+            <Class abbreviatedIRI="ns0:person"/>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty abbreviatedIRI="ns0:age"/>
+                <ObjectOneOf>
+                    <NamedIndividual abbreviatedIRI="ns0:adult"/>
+                </ObjectOneOf>
+            </ObjectSomeValuesFrom>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty abbreviatedIRI="ns0:sex"/>
+                <ObjectOneOf>
+                    <NamedIndividual abbreviatedIRI="ns0:male"/>
+                </ObjectOneOf>
+            </ObjectSomeValuesFrom>
+        </ObjectIntersectionOf>
+    </EquivalentClasses>
+    <EquivalentClasses>
+        <Annotation>
+            <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+            <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">OK</Literal>
+        </Annotation>
+        <Class abbreviatedIRI="ns0:vegetarian"/>
+        <ObjectIntersectionOf>
+            <Class abbreviatedIRI="ns0:animal"/>
+            <ObjectAllValuesFrom>
+                <ObjectProperty abbreviatedIRI="ns0:eats"/>
+                <ObjectComplementOf>
+                    <Class abbreviatedIRI="ns0:animal"/>
+                </ObjectComplementOf>
+            </ObjectAllValuesFrom>
+            <ObjectAllValuesFrom>
+                <ObjectProperty abbreviatedIRI="ns0:eats"/>
+                <ObjectComplementOf>
+                    <ObjectSomeValuesFrom>
+                        <ObjectProperty IRI="http://cohse.semanticweb.org/ontologies/people#part+of"/>
+                        <Class abbreviatedIRI="ns0:animal"/>
+                    </ObjectSomeValuesFrom>
+                </ObjectComplementOf>
+            </ObjectAllValuesFrom>
+        </ObjectIntersectionOf>
+    </EquivalentClasses>
+    <EquivalentClasses>
+        <Class abbreviatedIRI="ns0:woman"/>
+        <ObjectIntersectionOf>
+            <Class abbreviatedIRI="ns0:person"/>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty abbreviatedIRI="ns0:age"/>
+                <ObjectOneOf>
+                    <NamedIndividual abbreviatedIRI="ns0:adult"/>
+                </ObjectOneOf>
+            </ObjectSomeValuesFrom>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty abbreviatedIRI="ns0:sex"/>
+                <ObjectOneOf>
+                    <NamedIndividual abbreviatedIRI="ns0:female"/>
+                </ObjectOneOf>
+            </ObjectSomeValuesFrom>
+        </ObjectIntersectionOf>
+    </EquivalentClasses>
+    <EquivalentClasses>
+        <Class IRI="http://cohse.semanticweb.org/ontologies/people#animal+lover"/>
+        <ObjectIntersectionOf>
+            <Class abbreviatedIRI="ns0:person"/>
+            <ObjectMinCardinality cardinality="3">
+                <ObjectProperty IRI="http://cohse.semanticweb.org/ontologies/people#has+pet"/>
+            </ObjectMinCardinality>
+        </ObjectIntersectionOf>
+    </EquivalentClasses>
+    <EquivalentClasses>
+        <Class IRI="http://cohse.semanticweb.org/ontologies/people#bus+driver"/>
+        <ObjectIntersectionOf>
+            <Class abbreviatedIRI="ns0:person"/>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty abbreviatedIRI="ns0:drives"/>
+                <Class abbreviatedIRI="ns0:bus"/>
+            </ObjectSomeValuesFrom>
+        </ObjectIntersectionOf>
+    </EquivalentClasses>
+    <EquivalentClasses>
+        <Class IRI="http://cohse.semanticweb.org/ontologies/people#cat+liker"/>
+        <ObjectIntersectionOf>
+            <Class abbreviatedIRI="ns0:person"/>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty abbreviatedIRI="ns0:likes"/>
+                <Class abbreviatedIRI="ns0:cat"/>
+            </ObjectSomeValuesFrom>
+        </ObjectIntersectionOf>
+    </EquivalentClasses>
+    <EquivalentClasses>
+        <Class IRI="http://cohse.semanticweb.org/ontologies/people#cat+owner"/>
+        <ObjectIntersectionOf>
+            <Class abbreviatedIRI="ns0:person"/>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="http://cohse.semanticweb.org/ontologies/people#has+pet"/>
+                <Class abbreviatedIRI="ns0:cat"/>
+            </ObjectSomeValuesFrom>
+        </ObjectIntersectionOf>
+    </EquivalentClasses>
+    <EquivalentClasses>
+        <Class IRI="http://cohse.semanticweb.org/ontologies/people#dog+liker"/>
+        <ObjectIntersectionOf>
+            <Class abbreviatedIRI="ns0:person"/>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty abbreviatedIRI="ns0:likes"/>
+                <Class abbreviatedIRI="ns0:dog"/>
+            </ObjectSomeValuesFrom>
+        </ObjectIntersectionOf>
+    </EquivalentClasses>
+    <EquivalentClasses>
+        <Class IRI="http://cohse.semanticweb.org/ontologies/people#dog+owner"/>
+        <ObjectIntersectionOf>
+            <Class abbreviatedIRI="ns0:person"/>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="http://cohse.semanticweb.org/ontologies/people#has+pet"/>
+                <Class abbreviatedIRI="ns0:dog"/>
+            </ObjectSomeValuesFrom>
+        </ObjectIntersectionOf>
+    </EquivalentClasses>
+    <EquivalentClasses>
+        <Class IRI="http://cohse.semanticweb.org/ontologies/people#haulage+worker"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://cohse.semanticweb.org/ontologies/people#works+for"/>
+            <ObjectUnionOf>
+                <Class IRI="http://cohse.semanticweb.org/ontologies/people#haulage+company"/>
+                <ObjectSomeValuesFrom>
+                    <ObjectProperty IRI="http://cohse.semanticweb.org/ontologies/people#part+of"/>
+                    <Class IRI="http://cohse.semanticweb.org/ontologies/people#haulage+company"/>
+                </ObjectSomeValuesFrom>
+            </ObjectUnionOf>
+        </ObjectSomeValuesFrom>
+    </EquivalentClasses>
+    <EquivalentClasses>
+        <Class IRI="http://cohse.semanticweb.org/ontologies/people#haulage+truck+driver"/>
+        <ObjectIntersectionOf>
+            <Class abbreviatedIRI="ns0:person"/>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty abbreviatedIRI="ns0:drives"/>
+                <Class abbreviatedIRI="ns0:truck"/>
+            </ObjectSomeValuesFrom>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="http://cohse.semanticweb.org/ontologies/people#works+for"/>
+                <ObjectSomeValuesFrom>
+                    <ObjectProperty IRI="http://cohse.semanticweb.org/ontologies/people#part+of"/>
+                    <Class IRI="http://cohse.semanticweb.org/ontologies/people#haulage+company"/>
+                </ObjectSomeValuesFrom>
+            </ObjectSomeValuesFrom>
+        </ObjectIntersectionOf>
+    </EquivalentClasses>
+    <EquivalentClasses>
+        <Class IRI="http://cohse.semanticweb.org/ontologies/people#lorry+driver"/>
+        <ObjectIntersectionOf>
+            <Class abbreviatedIRI="ns0:person"/>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty abbreviatedIRI="ns0:drives"/>
+                <Class abbreviatedIRI="ns0:lorry"/>
+            </ObjectSomeValuesFrom>
+        </ObjectIntersectionOf>
+    </EquivalentClasses>
+    <EquivalentClasses>
+        <Class IRI="http://cohse.semanticweb.org/ontologies/people#old+lady"/>
+        <ObjectIntersectionOf>
+            <Class abbreviatedIRI="ns0:person"/>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty abbreviatedIRI="ns0:age"/>
+                <ObjectOneOf>
+                    <NamedIndividual abbreviatedIRI="ns0:elderly"/>
+                </ObjectOneOf>
+            </ObjectSomeValuesFrom>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty abbreviatedIRI="ns0:sex"/>
+                <ObjectOneOf>
+                    <NamedIndividual abbreviatedIRI="ns0:female"/>
+                </ObjectOneOf>
+            </ObjectSomeValuesFrom>
+        </ObjectIntersectionOf>
+    </EquivalentClasses>
+    <EquivalentClasses>
+        <Class IRI="http://cohse.semanticweb.org/ontologies/people#pet+owner"/>
+        <ObjectIntersectionOf>
+            <Class abbreviatedIRI="ns0:person"/>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="http://cohse.semanticweb.org/ontologies/people#has+pet"/>
+                <Class abbreviatedIRI="ns0:animal"/>
+            </ObjectSomeValuesFrom>
+        </ObjectIntersectionOf>
+    </EquivalentClasses>
+    <EquivalentClasses>
+        <Class IRI="http://cohse.semanticweb.org/ontologies/people#van+driver"/>
+        <ObjectIntersectionOf>
+            <Class abbreviatedIRI="ns0:person"/>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty abbreviatedIRI="ns0:drives"/>
+                <Class abbreviatedIRI="ns0:van"/>
+            </ObjectSomeValuesFrom>
+        </ObjectIntersectionOf>
+    </EquivalentClasses>
+    <EquivalentClasses>
+        <Class IRI="http://cohse.semanticweb.org/ontologies/people#white+van+man"/>
+        <ObjectIntersectionOf>
+            <Class abbreviatedIRI="ns0:man"/>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty abbreviatedIRI="ns0:drives"/>
+                <ObjectIntersectionOf>
+                    <Class abbreviatedIRI="ns0:van"/>
+                    <ObjectSomeValuesFrom>
+                        <ObjectProperty IRI="http://cohse.semanticweb.org/ontologies/people#has+colour"/>
+                        <ObjectOneOf>
+                            <NamedIndividual abbreviatedIRI="ns0:white"/>
+                        </ObjectOneOf>
+                    </ObjectSomeValuesFrom>
+                </ObjectIntersectionOf>
+            </ObjectSomeValuesFrom>
+        </ObjectIntersectionOf>
+    </EquivalentClasses>
+    <SubClassOf>
+        <Class abbreviatedIRI="ns0:animal"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty abbreviatedIRI="ns0:eats"/>
+            <Class abbreviatedIRI="owl:Thing"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class abbreviatedIRI="ns0:bicycle"/>
+        <Class abbreviatedIRI="ns0:vehicle"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class abbreviatedIRI="ns0:broadsheet"/>
+        <Class abbreviatedIRI="ns0:newspaper"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class abbreviatedIRI="ns0:bus"/>
+        <Class abbreviatedIRI="ns0:vehicle"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class abbreviatedIRI="ns0:car"/>
+        <Class abbreviatedIRI="ns0:vehicle"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class abbreviatedIRI="ns0:cat"/>
+        <Class abbreviatedIRI="ns0:animal"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class abbreviatedIRI="ns0:cow"/>
+        <Class abbreviatedIRI="ns0:vegetarian"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class abbreviatedIRI="ns0:dog"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty abbreviatedIRI="ns0:eats"/>
+            <Class abbreviatedIRI="ns0:bone"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class abbreviatedIRI="ns0:giraffe"/>
+        <Class abbreviatedIRI="ns0:animal"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class abbreviatedIRI="ns0:giraffe"/>
+        <ObjectAllValuesFrom>
+            <ObjectProperty abbreviatedIRI="ns0:eats"/>
+            <Class abbreviatedIRI="ns0:leaf"/>
+        </ObjectAllValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class abbreviatedIRI="ns0:grass"/>
+        <Class abbreviatedIRI="ns0:plant"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class abbreviatedIRI="ns0:leaf"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://cohse.semanticweb.org/ontologies/people#part+of"/>
+            <Class abbreviatedIRI="ns0:tree"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class abbreviatedIRI="ns0:lorry"/>
+        <Class abbreviatedIRI="ns0:vehicle"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class abbreviatedIRI="ns0:mad_cow"/>
+        <Class abbreviatedIRI="ns0:cow"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class abbreviatedIRI="ns0:mad_cow"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty abbreviatedIRI="ns0:eats"/>
+            <ObjectIntersectionOf>
+                <Class abbreviatedIRI="ns0:brain"/>
+                <ObjectSomeValuesFrom>
+                    <ObjectProperty IRI="http://cohse.semanticweb.org/ontologies/people#part+of"/>
+                    <Class abbreviatedIRI="ns0:sheep"/>
+                </ObjectSomeValuesFrom>
+            </ObjectIntersectionOf>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class abbreviatedIRI="ns0:magazine"/>
+        <Class abbreviatedIRI="ns0:publication"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class abbreviatedIRI="ns0:newspaper"/>
+        <Class abbreviatedIRI="ns0:publication"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class abbreviatedIRI="ns0:newspaper"/>
+        <ObjectUnionOf>
+            <Class abbreviatedIRI="ns0:broadsheet"/>
+            <Class abbreviatedIRI="ns0:tabloid"/>
+        </ObjectUnionOf>
+    </SubClassOf>
+    <SubClassOf>
+        <Class abbreviatedIRI="ns0:person"/>
+        <Class abbreviatedIRI="ns0:animal"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Annotation>
+            <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+            <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">OK</Literal>
+        </Annotation>
+        <Class abbreviatedIRI="ns0:sheep"/>
+        <Class abbreviatedIRI="ns0:animal"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class abbreviatedIRI="ns0:sheep"/>
+        <ObjectAllValuesFrom>
+            <ObjectProperty abbreviatedIRI="ns0:eats"/>
+            <Class abbreviatedIRI="ns0:grass"/>
+        </ObjectAllValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class abbreviatedIRI="ns0:tabloid"/>
+        <Class abbreviatedIRI="ns0:newspaper"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class abbreviatedIRI="ns0:tree"/>
+        <Class abbreviatedIRI="ns0:plant"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class abbreviatedIRI="ns0:truck"/>
+        <Class abbreviatedIRI="ns0:vehicle"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class abbreviatedIRI="ns0:van"/>
+        <Class abbreviatedIRI="ns0:vehicle"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://cohse.semanticweb.org/ontologies/people#bus+company"/>
+        <Class abbreviatedIRI="ns0:company"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://cohse.semanticweb.org/ontologies/people#bus+driver"/>
+        <ObjectUnionOf>
+            <ObjectComplementOf>
+                <ObjectSomeValuesFrom>
+                    <ObjectProperty abbreviatedIRI="ns0:likes"/>
+                    <ObjectIntersectionOf>
+                        <Class abbreviatedIRI="ns0:person"/>
+                        <ObjectSomeValuesFrom>
+                            <ObjectProperty abbreviatedIRI="ns0:age"/>
+                            <ObjectOneOf>
+                                <NamedIndividual abbreviatedIRI="ns0:young"/>
+                            </ObjectOneOf>
+                        </ObjectSomeValuesFrom>
+                    </ObjectIntersectionOf>
+                </ObjectSomeValuesFrom>
+            </ObjectComplementOf>
+            <ObjectAllValuesFrom>
+                <ObjectProperty abbreviatedIRI="ns0:reads"/>
+                <Class abbreviatedIRI="ns0:broadsheet"/>
+            </ObjectAllValuesFrom>
+        </ObjectUnionOf>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://cohse.semanticweb.org/ontologies/people#old+lady"/>
+        <ObjectIntersectionOf>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="http://cohse.semanticweb.org/ontologies/people#has+pet"/>
+                <Class abbreviatedIRI="ns0:animal"/>
+            </ObjectSomeValuesFrom>
+            <ObjectAllValuesFrom>
+                <ObjectProperty IRI="http://cohse.semanticweb.org/ontologies/people#has+pet"/>
+                <Class abbreviatedIRI="ns0:cat"/>
+            </ObjectAllValuesFrom>
+        </ObjectIntersectionOf>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://cohse.semanticweb.org/ontologies/people#quality+broadsheet"/>
+        <Class abbreviatedIRI="ns0:broadsheet"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://cohse.semanticweb.org/ontologies/people#red+top"/>
+        <Class abbreviatedIRI="ns0:tabloid"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://cohse.semanticweb.org/ontologies/people#white+van+man"/>
+        <ObjectAllValuesFrom>
+            <ObjectProperty abbreviatedIRI="ns0:reads"/>
+            <Class abbreviatedIRI="ns0:tabloid"/>
+        </ObjectAllValuesFrom>
+    </SubClassOf>
+    <DisjointClasses>
+        <Class abbreviatedIRI="ns0:broadsheet"/>
+        <Class abbreviatedIRI="ns0:tabloid"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class abbreviatedIRI="ns0:cat"/>
+        <Class abbreviatedIRI="ns0:dog"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <ObjectUnionOf>
+            <Class abbreviatedIRI="ns0:animal"/>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="http://cohse.semanticweb.org/ontologies/people#part+of"/>
+                <Class abbreviatedIRI="ns0:animal"/>
+            </ObjectSomeValuesFrom>
+        </ObjectUnionOf>
+        <ObjectUnionOf>
+            <Class abbreviatedIRI="ns0:plant"/>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="http://cohse.semanticweb.org/ontologies/people#part+of"/>
+                <Class abbreviatedIRI="ns0:plant"/>
+            </ObjectSomeValuesFrom>
+        </ObjectUnionOf>
+    </DisjointClasses>
+    <ClassAssertion>
+        <Class abbreviatedIRI="ns0:bus"/>
+        <NamedIndividual abbreviatedIRI="ns0:The42"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class abbreviatedIRI="owl:Thing"/>
+        <NamedIndividual abbreviatedIRI="ns0:The42"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class abbreviatedIRI="ns0:broadsheet"/>
+        <NamedIndividual abbreviatedIRI="ns0:TheGuardian"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class abbreviatedIRI="owl:Thing"/>
+        <NamedIndividual abbreviatedIRI="ns0:TheGuardian"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class abbreviatedIRI="ns0:tabloid"/>
+        <NamedIndividual abbreviatedIRI="ns0:TheMirror"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class abbreviatedIRI="owl:Thing"/>
+        <NamedIndividual abbreviatedIRI="ns0:TheMirror"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class abbreviatedIRI="ns0:tabloid"/>
+        <NamedIndividual abbreviatedIRI="ns0:TheSun"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class abbreviatedIRI="owl:Thing"/>
+        <NamedIndividual abbreviatedIRI="ns0:TheSun"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class abbreviatedIRI="ns0:broadsheet"/>
+        <NamedIndividual abbreviatedIRI="ns0:TheTimes"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class abbreviatedIRI="owl:Thing"/>
+        <NamedIndividual abbreviatedIRI="ns0:TheTimes"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class abbreviatedIRI="owl:Thing"/>
+        <NamedIndividual abbreviatedIRI="ns0:adult"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class abbreviatedIRI="ns0:colour"/>
+        <NamedIndividual abbreviatedIRI="ns0:blue"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class abbreviatedIRI="owl:Thing"/>
+        <NamedIndividual abbreviatedIRI="ns0:blue"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class abbreviatedIRI="owl:Thing"/>
+        <NamedIndividual abbreviatedIRI="ns0:elderly"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class abbreviatedIRI="owl:Thing"/>
+        <NamedIndividual abbreviatedIRI="ns0:female"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class abbreviatedIRI="owl:Thing"/>
+        <NamedIndividual abbreviatedIRI="ns0:male"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class abbreviatedIRI="ns0:colour"/>
+        <NamedIndividual abbreviatedIRI="ns0:red"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class abbreviatedIRI="owl:Thing"/>
+        <NamedIndividual abbreviatedIRI="ns0:red"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class abbreviatedIRI="ns0:colour"/>
+        <NamedIndividual abbreviatedIRI="ns0:white"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class abbreviatedIRI="owl:Thing"/>
+        <NamedIndividual abbreviatedIRI="ns0:white"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class abbreviatedIRI="owl:Thing"/>
+        <NamedIndividual abbreviatedIRI="ns0:young"/>
+    </ClassAssertion>
+    <DataPropertyAssertion>
+        <DataProperty abbreviatedIRI="ns0:service_number"/>
+        <NamedIndividual abbreviatedIRI="ns0:The42"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">42</Literal>
+    </DataPropertyAssertion>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="http://cohse.semanticweb.org/ontologies/people#has+father"/>
+        <ObjectProperty IRI="http://cohse.semanticweb.org/ontologies/people#has+parent"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="http://cohse.semanticweb.org/ontologies/people#has+mother"/>
+        <ObjectProperty IRI="http://cohse.semanticweb.org/ontologies/people#has+parent"/>
+    </SubObjectPropertyOf>
+    <InverseObjectProperties>
+        <ObjectProperty abbreviatedIRI="ns0:eats"/>
+        <ObjectProperty IRI="http://cohse.semanticweb.org/ontologies/people#eaten+by"/>
+    </InverseObjectProperties>
+    <InverseObjectProperties>
+        <ObjectProperty IRI="http://cohse.semanticweb.org/ontologies/people#has+part"/>
+        <ObjectProperty IRI="http://cohse.semanticweb.org/ontologies/people#part+of"/>
+    </InverseObjectProperties>
+    <ObjectPropertyDomain>
+        <ObjectProperty abbreviatedIRI="ns0:eats"/>
+        <Class abbreviatedIRI="ns0:animal"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="http://cohse.semanticweb.org/ontologies/people#has+parent"/>
+        <Class abbreviatedIRI="ns0:person"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyRange>
+        <ObjectProperty abbreviatedIRI="ns0:age"/>
+        <ObjectOneOf>
+            <NamedIndividual abbreviatedIRI="ns0:adult"/>
+            <NamedIndividual abbreviatedIRI="ns0:young"/>
+            <NamedIndividual abbreviatedIRI="ns0:elderly"/>
+        </ObjectOneOf>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty abbreviatedIRI="ns0:reads"/>
+        <Class abbreviatedIRI="ns0:publication"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty abbreviatedIRI="ns0:sex"/>
+        <ObjectOneOf>
+            <NamedIndividual abbreviatedIRI="ns0:female"/>
+            <NamedIndividual abbreviatedIRI="ns0:male"/>
+        </ObjectOneOf>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="http://cohse.semanticweb.org/ontologies/people#has+father"/>
+        <Class abbreviatedIRI="ns0:man"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="http://cohse.semanticweb.org/ontologies/people#has+mother"/>
+        <Class abbreviatedIRI="ns0:woman"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="http://cohse.semanticweb.org/ontologies/people#has+parent"/>
+        <Class abbreviatedIRI="ns0:person"/>
+    </ObjectPropertyRange>
+    <DataPropertyRange>
+        <DataProperty abbreviatedIRI="ns0:service_number"/>
+        <Datatype abbreviatedIRI="xsd:integer"/>
+    </DataPropertyRange>
+</Ontology>
+
+
+
+<!-- Generated by the OWL API (version 4.2.8.20170104-2310) https://github.com/owlcs/owlapi -->
+

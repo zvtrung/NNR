@@ -1,0 +1,79 @@
+Ontology mad_cows_incoherent2.owl
+90/175 tiên đề logic
+Số khái niệm không thoả được: 1
+Số khái niệm: 54
+Số tiên đề tri thức nền ban đầu: 88
+⊤ ⊑ mad_cow: UndeterminedAfterODP_REALLY (k=3, nAx=91, nAxPerStep=1.0, nDeltaODP = 1)
+owner ⊑ mad_cow: NA_ODP (k=3, nAx=91, nAxPerStep=1.0, nDeltaODP = 2)
+man ⊑ mad_cow: NA_ODP (k=3, nAx=91, nAxPerStep=1.0, nDeltaODP = 2)
+grass ⊑ mad_cow: Rejected (k=2, nAx=90, nAxPerStep=1.0)
+cat ⊑ mad_cow: NA_ODP (k=3, nAx=91, nAxPerStep=1.0, nDeltaODP = 2)
+tree ⊑ mad_cow: Rejected (k=2, nAx=90, nAxPerStep=1.0)
+car ⊑ mad_cow: UndeterminedAfterODP_REALLY (k=3, nAx=91, nAxPerStep=1.0, nDeltaODP = 1)
+driver ⊑ mad_cow: NA_ODP (k=3, nAx=91, nAxPerStep=1.0, nDeltaODP = 2)
+brain ⊑ mad_cow: UndeterminedAfterODP_REALLY (k=3, nAx=91, nAxPerStep=1.0, nDeltaODP = 1)
+girl ⊑ mad_cow: NA_ODP (k=3, nAx=91, nAxPerStep=1.0, nDeltaODP = 2)
+boy ⊑ mad_cow: NA_ODP (k=3, nAx=91, nAxPerStep=1.0, nDeltaODP = 2)
+person ⊑ mad_cow: NA_ODP (k=3, nAx=91, nAxPerStep=1.0, nDeltaODP = 2)
+company ⊑ mad_cow: UndeterminedAfterODP_REALLY (k=3, nAx=91, nAxPerStep=1.0, nDeltaODP = 1)
+kid ⊑ mad_cow: NA_ODP (k=3, nAx=91, nAxPerStep=1.0, nDeltaODP = 2)
+woman ⊑ mad_cow: NA_ODP (k=3, nAx=91, nAxPerStep=1.0, nDeltaODP = 2)
+broadsheet ⊑ mad_cow: UndeterminedAfterODP_REALLY (k=3, nAx=91, nAxPerStep=1.0, nDeltaODP = 1)
+dog ⊑ mad_cow: NA_ODP (k=3, nAx=91, nAxPerStep=1.0, nDeltaODP = 2)
+driver ⊑ mad_cow: NA_ODP (k=3, nAx=91, nAxPerStep=1.0, nDeltaODP = 2)
+vehicle ⊑ mad_cow: UndeterminedAfterODP_REALLY (k=3, nAx=91, nAxPerStep=1.0, nDeltaODP = 1)
+driver ⊑ mad_cow: NA_ODP (k=3, nAx=91, nAxPerStep=1.0, nDeltaODP = 2)
+company ⊑ mad_cow: UndeterminedAfterODP_REALLY (k=3, nAx=91, nAxPerStep=1.0, nDeltaODP = 1)
+van ⊑ mad_cow: UndeterminedAfterODP_REALLY (k=3, nAx=91, nAxPerStep=1.0, nDeltaODP = 1)
+company ⊑ mad_cow: UndeterminedAfterODP_REALLY (k=3, nAx=91, nAxPerStep=1.0, nDeltaODP = 1)
+driver ⊑ mad_cow: NA_ODP (k=3, nAx=91, nAxPerStep=1.0, nDeltaODP = 2)
+top ⊑ mad_cow: UndeterminedAfterODP_REALLY (k=3, nAx=91, nAxPerStep=1.0, nDeltaODP = 1)
+bone ⊑ mad_cow: UndeterminedAfterODP_REALLY (k=3, nAx=91, nAxPerStep=1.0, nDeltaODP = 1)
+grownup ⊑ mad_cow: NA_ODP (k=3, nAx=91, nAxPerStep=1.0, nDeltaODP = 2)
+man ⊑ mad_cow: NA_ODP (k=3, nAx=91, nAxPerStep=1.0, nDeltaODP = 2)
+leaf ⊑ mad_cow: Rejected (k=2, nAx=90, nAxPerStep=1.0)
+liker ⊑ mad_cow: NA_ODP (k=3, nAx=91, nAxPerStep=1.0, nDeltaODP = 2)
+colour ⊑ mad_cow: UndeterminedAfterODP_REALLY (k=3, nAx=91, nAxPerStep=1.0, nDeltaODP = 1)
+plant ⊑ mad_cow: Rejected (k=2, nAx=90, nAxPerStep=1.0)
+lover ⊑ mad_cow: NA_ODP (k=3, nAx=91, nAxPerStep=1.0, nDeltaODP = 2)
+lorry ⊑ mad_cow: UndeterminedAfterODP_REALLY (k=3, nAx=91, nAxPerStep=1.0, nDeltaODP = 1)
+driver ⊑ mad_cow: NA_ODP (k=3, nAx=91, nAxPerStep=1.0, nDeltaODP = 2)
+cow ⊑ mad_cow: NA_ODP (k=3, nAx=91, nAxPerStep=1.0, nDeltaODP = 2)
+lady ⊑ mad_cow: NA_ODP (k=3, nAx=91, nAxPerStep=1.0, nDeltaODP = 2)
+giraffe ⊑ mad_cow: NA_ODP (k=3, nAx=91, nAxPerStep=1.0, nDeltaODP = 2)
+magazine ⊑ mad_cow: UndeterminedAfterODP_REALLY (k=3, nAx=91, nAxPerStep=1.0, nDeltaODP = 1)
+owner ⊑ mad_cow: NA_ODP (k=3, nAx=91, nAxPerStep=1.0, nDeltaODP = 2)
+animal ⊑ mad_cow: NA_ODP (k=3, nAx=91, nAxPerStep=1.0, nDeltaODP = 2)
+bus ⊑ mad_cow: UndeterminedAfterODP_REALLY (k=3, nAx=91, nAxPerStep=1.0, nDeltaODP = 1)
+worker ⊑ mad_cow: UndeterminedAfterODP_REALLY (k=3, nAx=91, nAxPerStep=1.0, nDeltaODP = 1)
+bicycle ⊑ mad_cow: UndeterminedAfterODP_REALLY (k=3, nAx=91, nAxPerStep=1.0, nDeltaODP = 1)
+truck ⊑ mad_cow: UndeterminedAfterODP_REALLY (k=3, nAx=91, nAxPerStep=1.0, nDeltaODP = 1)
+broadsheet ⊑ mad_cow: UndeterminedAfterODP_REALLY (k=3, nAx=91, nAxPerStep=1.0, nDeltaODP = 1)
+newspaper ⊑ mad_cow: UndeterminedAfterODP_REALLY (k=3, nAx=91, nAxPerStep=1.0, nDeltaODP = 1)
+owner ⊑ mad_cow: NA_ODP (k=3, nAx=91, nAxPerStep=1.0, nDeltaODP = 2)
+publication ⊑ mad_cow: UndeterminedAfterODP_REALLY (k=3, nAx=91, nAxPerStep=1.0, nDeltaODP = 1)
+liker ⊑ mad_cow: NA_ODP (k=3, nAx=91, nAxPerStep=1.0, nDeltaODP = 2)
+sheep ⊑ mad_cow: NA_ODP (k=3, nAx=91, nAxPerStep=1.0, nDeltaODP = 2)
+vegetarian ⊑ mad_cow: NA_ODP (k=3, nAx=91, nAxPerStep=1.0, nDeltaODP = 2)
+tabloid ⊑ mad_cow: UndeterminedAfterODP_REALLY (k=3, nAx=91, nAxPerStep=1.0, nDeltaODP = 1)
+Thống kê theo kết quả
+Undetermined: 0
+Accepted: 0
+Rejected: 4
+Overdetermined: 0
+UndetermindedAfterODP: 0
+UndeterminedAfterODP_REALLY: 22
+AcceptedAfterODP: 0
+RejectedAfterODP: 0
+NA_ODP: 27
+Thống kê số bước lặp
+2	4
+3	49
+Thống kê số tiên đề trong tập chọn khi trả lời
+90	4
+91	49
+Thống kê số tiên đề được thêm trong mỗi bước lặp
+1.0	53
+Thống kê số tiên đề cần loại bỏ để ODP
+1	22
+2	27

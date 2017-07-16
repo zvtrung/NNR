@@ -1,0 +1,149 @@
+Ontology mad_cows_incoherent2.owl
+90/175 tiên đề logic
+Số khái niệm không thoả được: 1
+Số khái niệm: 54
+⊤ ⊑ mad_cow: NA_ODP (k=2, nAx=66, nAxPerStep=33.0, nDeltaODP = 48)
+owner ⊑ mad_cow: NA_ODP (k=2, nAx=41, nAxPerStep=20.5, nDeltaODP = 37)
+man ⊑ mad_cow: NA_ODP (k=2, nAx=49, nAxPerStep=24.5, nDeltaODP = 43)
+grass ⊑ mad_cow: NA_ODP (k=2, nAx=19, nAxPerStep=9.5, nDeltaODP = 14)
+cat ⊑ mad_cow: NA_ODP (k=2, nAx=42, nAxPerStep=21.0, nDeltaODP = 34)
+tree ⊑ mad_cow: NA_ODP (k=2, nAx=19, nAxPerStep=9.5, nDeltaODP = 14)
+car ⊑ mad_cow: NA_ODP (k=2, nAx=24, nAxPerStep=12.0, nDeltaODP = 20)
+driver ⊑ mad_cow: NA_ODP (k=2, nAx=51, nAxPerStep=25.5, nDeltaODP = 46)
+brain ⊑ mad_cow: NA_ODP (k=2, nAx=17, nAxPerStep=8.5, nDeltaODP = 14)
+girl ⊑ mad_cow: NA_ODP (k=2, nAx=42, nAxPerStep=21.0, nDeltaODP = 38)
+boy ⊑ mad_cow: NA_ODP (k=2, nAx=42, nAxPerStep=21.0, nDeltaODP = 38)
+person ⊑ mad_cow: NA_ODP (k=2, nAx=77, nAxPerStep=38.5, nDeltaODP = 52)
+company ⊑ mad_cow: NA_ODP (k=2, nAx=40, nAxPerStep=20.0, nDeltaODP = 35)
+kid ⊑ mad_cow: NA_ODP (k=2, nAx=40, nAxPerStep=20.0, nDeltaODP = 36)
+woman ⊑ mad_cow: NA_ODP (k=2, nAx=44, nAxPerStep=22.0, nDeltaODP = 39)
+broadsheet ⊑ mad_cow: NA_ODP (k=2, nAx=55, nAxPerStep=27.5, nDeltaODP = 45)
+dog ⊑ mad_cow: NA_ODP (k=2, nAx=41, nAxPerStep=20.5, nDeltaODP = 34)
+driver ⊑ mad_cow: NA_ODP (k=2, nAx=40, nAxPerStep=20.0, nDeltaODP = 36)
+vehicle ⊑ mad_cow: NA_ODP (k=2, nAx=46, nAxPerStep=23.0, nDeltaODP = 36)
+driver ⊑ mad_cow: NA_ODP (k=2, nAx=40, nAxPerStep=20.0, nDeltaODP = 36)
+company ⊑ mad_cow: NA_ODP (k=2, nAx=18, nAxPerStep=9.0, nDeltaODP = 14)
+van ⊑ mad_cow: NA_ODP (k=2, nAx=49, nAxPerStep=24.5, nDeltaODP = 43)
+company ⊑ mad_cow: NA_ODP (k=2, nAx=18, nAxPerStep=9.0, nDeltaODP = 14)
+driver ⊑ mad_cow: NA_ODP (k=2, nAx=40, nAxPerStep=20.0, nDeltaODP = 36)
+top ⊑ mad_cow: NA_ODP (k=2, nAx=24, nAxPerStep=12.0, nDeltaODP = 20)
+bone ⊑ mad_cow: NA_ODP (k=2, nAx=20, nAxPerStep=10.0, nDeltaODP = 16)
+grownup ⊑ mad_cow: NA_ODP (k=2, nAx=41, nAxPerStep=20.5, nDeltaODP = 37)
+man ⊑ mad_cow: NA_ODP (k=2, nAx=36, nAxPerStep=18.0, nDeltaODP = 31)
+leaf ⊑ mad_cow: NA_ODP (k=2, nAx=19, nAxPerStep=9.5, nDeltaODP = 14)
+liker ⊑ mad_cow: NA_ODP (k=2, nAx=39, nAxPerStep=19.5, nDeltaODP = 35)
+colour ⊑ mad_cow: NA_ODP (k=2, nAx=24, nAxPerStep=12.0, nDeltaODP = 18)
+plant ⊑ mad_cow: NA_ODP (k=2, nAx=24, nAxPerStep=12.0, nDeltaODP = 18)
+lover ⊑ mad_cow: NA_ODP (k=2, nAx=52, nAxPerStep=26.0, nDeltaODP = 48)
+lorry ⊑ mad_cow: NA_ODP (k=2, nAx=45, nAxPerStep=22.5, nDeltaODP = 40)
+driver ⊑ mad_cow: NA_ODP (k=2, nAx=45, nAxPerStep=22.5, nDeltaODP = 41)
+cow ⊑ mad_cow: NA_ODP (k=2, nAx=17, nAxPerStep=8.5, nDeltaODP = 13)
+lady ⊑ mad_cow: NA_ODP (k=2, nAx=46, nAxPerStep=23.0, nDeltaODP = 41)
+giraffe ⊑ mad_cow: NA_ODP (k=2, nAx=22, nAxPerStep=11.0, nDeltaODP = 17)
+magazine ⊑ mad_cow: NA_ODP (k=2, nAx=20, nAxPerStep=10.0, nDeltaODP = 16)
+owner ⊑ mad_cow: NA_ODP (k=2, nAx=41, nAxPerStep=20.5, nDeltaODP = 37)
+animal ⊑ mad_cow: NA_ODP (k=2, nAx=57, nAxPerStep=28.5, nDeltaODP = 44)
+bus ⊑ mad_cow: NA_ODP (k=2, nAx=48, nAxPerStep=24.0, nDeltaODP = 42)
+worker ⊑ mad_cow: NA_ODP (k=2, nAx=17, nAxPerStep=8.5, nDeltaODP = 13)
+bicycle ⊑ mad_cow: NA_ODP (k=2, nAx=24, nAxPerStep=12.0, nDeltaODP = 20)
+truck ⊑ mad_cow: NA_ODP (k=2, nAx=45, nAxPerStep=22.5, nDeltaODP = 40)
+broadsheet ⊑ mad_cow: NA_ODP (k=2, nAx=24, nAxPerStep=12.0, nDeltaODP = 20)
+newspaper ⊑ mad_cow: NA_ODP (k=2, nAx=32, nAxPerStep=16.0, nDeltaODP = 25)
+owner ⊑ mad_cow: NA_ODP (k=2, nAx=40, nAxPerStep=20.0, nDeltaODP = 36)
+publication ⊑ mad_cow: NA_ODP (k=2, nAx=25, nAxPerStep=12.5, nDeltaODP = 19)
+liker ⊑ mad_cow: NA_ODP (k=2, nAx=41, nAxPerStep=20.5, nDeltaODP = 37)
+sheep ⊑ mad_cow: NA_ODP (k=2, nAx=23, nAxPerStep=11.5, nDeltaODP = 18)
+vegetarian ⊑ mad_cow: NA_ODP (k=2, nAx=22, nAxPerStep=11.0, nDeltaODP = 17)
+tabloid ⊑ mad_cow: NA_ODP (k=2, nAx=34, nAxPerStep=17.0, nDeltaODP = 24)
+Thống kê theo kết quả
+Undetermined: 0
+Accepted: 0
+Rejected: 0
+Overdetermined: 0
+UndetermindedAfterODP: 0
+UndeterminedAfterODP_REALLY: 0
+AcceptedAfterODP: 0
+RejectedAfterODP: 0
+NA_ODP: 53
+Thống kê số bước lặp
+2	53
+Thống kê số tiên đề trong tập chọn khi trả lời
+17	3
+18	2
+19	3
+20	2
+22	2
+23	1
+24	6
+25	1
+32	1
+34	1
+36	1
+39	1
+40	6
+41	5
+42	3
+44	1
+45	3
+46	2
+48	1
+49	2
+51	1
+52	1
+55	1
+57	1
+66	1
+77	1
+Thống kê số tiên đề được thêm trong mỗi bước lặp
+8.5	3
+9.0	2
+9.5	3
+10.0	2
+11.0	2
+11.5	1
+12.0	6
+12.5	1
+16.0	1
+17.0	1
+18.0	1
+19.5	1
+20.0	6
+20.5	5
+21.0	3
+22.0	1
+22.5	3
+23.0	2
+24.0	1
+24.5	2
+25.5	1
+26.0	1
+27.5	1
+28.5	1
+33.0	1
+38.5	1
+Thống kê số tiên đề cần loại bỏ để ODP
+13	2
+14	6
+16	2
+17	2
+18	3
+19	1
+20	4
+24	1
+25	1
+31	1
+34	2
+35	2
+36	6
+37	4
+38	2
+39	1
+40	2
+41	2
+42	1
+43	2
+44	1
+45	1
+46	1
+48	2
+52	1
