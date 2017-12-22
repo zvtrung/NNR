@@ -1,0 +1,1 @@
+_run NNR.jar -Dfile.encoding=UTF-8 %*
